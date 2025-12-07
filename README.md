@@ -5,3 +5,5 @@ How to add to your server:
 
 Download the script, after doing so make a folder in your /resources folder called [nametags] *or something you will remember
 Then add the nametags script into that folder, once done so go into your config.cfg and add "ensure [nametags]" to it!
+
+Have fun!
